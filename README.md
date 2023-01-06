@@ -25,8 +25,4 @@ If you do like to send a donation to cover some of the huge amount of hours put 
 : zavionixrc@gmail.com***
 ***Thank you.***
 
-***Donation Link:
-[https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ]***
-
-
-If you like to donate please use this [Donation Link](https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ)/).
+***If you like to donate please use this [Donation Link](https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ)/).***
