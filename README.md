@@ -18,4 +18,4 @@ Here is an example of our RDT turbine widget running on FrSky X20S transmitter:
 
 if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
 
-![Alt text](zavionixlogo.jpg?raw=true "Optional Title")
+![Alt text](zavionixlogo.png?raw=true "Optional Title")
