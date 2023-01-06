@@ -10,11 +10,11 @@ Zavionix widgets are published and updated in this repository.**
 <img alt="" border="0" src="https://www.paypal.com/en_IL/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-##Here is an example of our RDT turbine widget running on FrSky X20S transmitter:##
-![Alt text](rdt.jpg?raw=true "Optional Title")
+**Here is an example of our RDT turbine widget running on FrSky X20S transmitter:**
+![Alt text](rdt.jpg?raw=true "Title")
 
 
-![Alt text](zavionixlogo.png?raw=true "Optional Title")
+![Alt text](zavionixlogo.png?raw=true "Title")
 
 
 # Donations
