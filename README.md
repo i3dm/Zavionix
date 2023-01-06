@@ -13,4 +13,4 @@ https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ
 <img alt="" border="0" src="https://www.paypal.com/en_IL/i/scr/pixel.gif" width="1" height="1" />
 </form>
 ![Screenshot](zavionixlogo.jpg)
-https://github.com/i3dm/Zavionix/blob/main/zavionixlogo.jpg
+![Alt text](/relative/path/to/zavionixlogo.jpg?raw=true "Optional Title")
