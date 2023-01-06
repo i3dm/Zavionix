@@ -21,5 +21,7 @@ Zavionix widgets are published and updated in this repository.**
 # Donations
 ***Many people have asked me for the price of the widgets.
 My Widget designs are given for FREE as a gift from me to the RC community which I love so much.
-If you do like to send a donation to cover some of the huge amount of hours put into the development, it is always very appreciated and you may do so via paypal to ZavionixRC@gmail.com or directly via this [Donation Link](https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ))***
+If you do like to send a donation to cover some of the huge amount of hours put into the development, it is always very appreciated 
+and you may do so via paypal to ZavionixRC@gmail.com 
+or directly via this [Donation Link](https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ)***
 ***Thank you.***
