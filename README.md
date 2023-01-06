@@ -1,6 +1,6 @@
 # Zavionix
-Zavionix widgets for FrSky Radios
-Zavionix widgets are published and updated in this repository.
+**Zavionix widgets for FrSky Radios
+Zavionix widgets are published and updated in this repository.**
 # if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
 
 
