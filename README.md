@@ -1,6 +1,7 @@
 # Zavionix
 Zavionix widgets for FrSky Radios
 Zavionix widgets are published and updated in this repository.
+# if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -12,7 +13,6 @@ Zavionix widgets are published and updated in this repository.
 Here is an example of our RDT turbine widget running on FrSky X20S transmitter:
 ![Alt text](rdt.jpg?raw=true "Optional Title")
 
-if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
 
 ![Alt text](zavionixlogo.png?raw=true "Optional Title")
 
