@@ -2,6 +2,8 @@
 **Zavionix widgets for FrSky Radios
 Zavionix widgets are published and updated in this repository.**
 # if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
+![Alt text](zavionixlogo.png?raw=true "Title")
+
 
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
@@ -14,7 +16,6 @@ Zavionix widgets are published and updated in this repository.**
 ![Alt text](rdt.jpg?raw=true "Title")
 
 
-![Alt text](zavionixlogo.png?raw=true "Title")
 
 
 # Donations
