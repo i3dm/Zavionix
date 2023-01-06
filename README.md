@@ -15,3 +15,4 @@ https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ
 ![Screenshot](zavionixlogo.png)
 
 ![Alt text](/relative/path/to/zavionixlogo.jpg?raw=true "Optional Title")
+![Alt text](zavionixlogo.jpg?raw=true "Optional Title")
