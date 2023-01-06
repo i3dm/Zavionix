@@ -29,4 +29,4 @@ If you do like to send a donation to cover some of the huge amount of hours put 
 [https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ]***
 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+If you like to donate please use this [Donation Link](https://pages.github.com/).
