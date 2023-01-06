@@ -18,7 +18,7 @@ if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
 
 
 # Donations
-** ** If you like the widgets, please consider making a donation to paypal: zavionixrc@gmail.com
+** If you like the widgets, please consider making a donation to paypal: zavionixrc@gmail.com **
 ** ** Thank you.
 
 ** ** Donation Link:
