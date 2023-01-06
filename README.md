@@ -27,3 +27,4 @@ If you do like to send a donation to cover some of the huge amount of hours put 
 
 ***Donation Link:
 [https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ]***
+ [Donation Link:]([https://pages.github.com](https://www.paypal.com/donate/?hosted_button_id=GEWL4TN8WEAKQ)/).
