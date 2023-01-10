@@ -30,9 +30,6 @@ https://github.com/FrSkyRC/ETHOS-Feedback-Community/releases
 9	Add a new screen (screen 2 for example).
 10. Choose screen layout. RDT needs FULL SCREEN (bottom most option): Note: Cells is the only widget that can be run on any size / part of the screen)
 ![image](https://user-images.githubusercontent.com/8968780/211631102-098c4c63-71ee-4db4-badd-cce670a688a9.png)
-
-https://user-images.githubusercontent.com/8968780/211631102-098c4c63-71ee-4db4-badd-cce670a688a9.png
-
 11. Select “Configure Widget” and choose the appropriate widget from the list – Zavionix RDT.
 15.	Exit back to main screen.
 16.	Scroll to widget page using the Page button.
