@@ -1,6 +1,6 @@
-# Zavionix
-**Zavionix widgets for FrSky Radios
-Zavionix widgets are published and updated in this repository.**
+
+#Zavionix widgets for FrSky Radios
+**Zavionix widgets are published and updated in this repository.**
 # if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
 ![Alt text](zavionixlogo.png?raw=true "Title")
 
@@ -14,6 +14,36 @@ Zavionix widgets are published and updated in this repository.**
 
 **Here is an example of our RDT turbine widget running on FrSky X20S transmitter:**
 ![Alt text](rdt.jpg?raw=true "Title")
+
+
+# Installation
+1.	Widget files are compressed in RAR format. If you do not have a tool to extract the files please download Winrar for free from: www.winrar.com
+2.	Extract the RAR files, inside it you will find a folder with the widget name (for example: RDT).
+3.	Before you copy the widget to your radio SD card please bear in mind that Ethos needs version 1.1.0 and above to run widgets. If you have not yet installed this version you may do so by obtaining the files and installing them on your radio from the following link:
+https://github.com/FrSkyRC/ETHOS-Feedback-Community/releases
+**For the exmaple we will discuss the RDT widget but all widgets are run in a similar manner**
+4.	Copy the RDT widget folder to the SD card “scripts” folder. If this folder does not exist on your SD card, please create a folder called scripts on the root of the SD.
+5.	For example, for RDT widget, the SD should have a folder called scripts, inside it a folder called RDT and inside it the main.lua and all other files.
+6.	If you accidentally created any sub folders in the process, the widget will not work. So please make sure #7 and #8 are done correctly.
+7.	Once all files have been copied, start your Ethos radio.
+8.	Go to screens menu (DISP button from main screen).
+9	Add a new screen (screen 2 for example).
+10. Choose screen layout. RDT needs FULL SCREEN (bottom most option): Note: Cells is the only widget that can be run on any size / part of the screen)
+![image](https://user-images.githubusercontent.com/8968780/211631102-098c4c63-71ee-4db4-badd-cce670a688a9.png)
+
+https://user-images.githubusercontent.com/8968780/211631102-098c4c63-71ee-4db4-badd-cce670a688a9.png
+
+11. Select “Configure Widget” and choose the appropriate widget from the list – Zavionix RDT.
+15.	Exit back to main screen.
+16.	Scroll to widget page using the Page button.
+17.	Once you are on the widget screen, click Enter (center of rotary) and Configure Widget.
+18.	In the widget setting go through every line and choose the appropriate option (sensor sources, alert parameters etc).
+the sensor allocation list per ECU type can be found in the attached Excel sheet: 
+RDT sensor configuration for Ethos.xls
+19.	Click RTN a few times to Exit back to main page.
+20.	Enjoy your new widget!
+21.	Post on the Frsky facebook groups and tag @Zavionix 😊
+
 
 
 
