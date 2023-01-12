@@ -21,6 +21,7 @@
 2.	Extract the RAR files, inside it you will find a folder with the widget name (for example: RDT).
 3.	Before you copy the widget to your radio SD card please bear in mind that Ethos needs version 1.1.0 and above to run widgets. If you have not yet installed this version you may do so by obtaining the files and installing them on your radio from the following link:
 https://github.com/FrSkyRC/ETHOS-Feedback-Community/releases
+
 **For the exmaple we will discuss the RDT widget but all widgets are run in a similar manner**
 4.	Copy the RDT widget folder to the SD card “scripts” folder. If this folder does not exist on your SD card, please create a folder called scripts on the root of the SD.
 5.	For example, for RDT widget, the SD should have a folder called scripts, inside it a folder called RDT and inside it the main.lua and all other files.
