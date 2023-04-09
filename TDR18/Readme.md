@@ -5,3 +5,4 @@ Rxbatt2
 RxCurrent
 for Consumption, please create a calculated sensors, type: Consumption, Source: RxCurrent, and persistant
 Enjoy :)
+![tdr18 widget](https://user-images.githubusercontent.com/8968780/230788092-26b48a4e-9463-46e7-8410-59cbd4e4e245.PNG)
