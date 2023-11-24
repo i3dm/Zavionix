@@ -15,6 +15,11 @@
 **Here is an example of our RDT turbine widget running on FrSky X20S transmitter:**
 ![Alt text](rdt.jpg?raw=true "Title")
 
+# Download
+1. To download all widgets, simply click "Code" in the top right corner of the page.
+2. Click "Download Zip".
+3. Unzip the compressed file and proceed to installation.
+![zavionix DL](https://github.com/i3dm/Zavionix/assets/8968780/402e1269-415a-4dba-9db1-6492cce27ace)
 
 # Installation
 **For the exmaple we will discuss the RDT widget but all widgets are run in a similar manner**
