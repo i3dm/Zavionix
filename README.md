@@ -15,7 +15,7 @@
 **Here is an example of our RDT turbine widget running on FrSky X20S transmitter:**
 ![Alt text](rdt.jpg?raw=true "Title")
 
-# Download
+# How to Download?
 1. To download all widgets, simply click "Code" in the top right corner of the page.
 2. Click "Download Zip".
 3. Unzip the compressed file and proceed to installation.
