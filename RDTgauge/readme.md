@@ -12,6 +12,7 @@ XW
 
 Zavionix RDTgauge widget, designed for Zavionix RDT turbine telemetry sensors.
 Pilots using RDT sensors are welcome to downlaod th widget and enjoy it :)
-should you encounter any bugs - please report via email to i3dm@hotmail.com
+should you encounter any bugs - please open an issue.
 
-Please note: preimenaryrelease is only for X20 series radios (or radios of the same screen size)
+Besides the regular sensor configuration, to run the gauges you need to go throughthe widget settings and enter your turbine mix/max values as required.
+
