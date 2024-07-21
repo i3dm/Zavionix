@@ -1,4 +1,5 @@
-![RDTgauge1 1 1](https://github.com/i3dm/Zavionix/assets/8968780/a5de6bc9-6ffe-4333-a45d-4f2bf487fbd0)
+![image](https://github.com/user-attachments/assets/66421419-9fd3-4f6d-820e-53e2300f9793)
+
 
 This widget works only on 800x480 ascreen size  radios:
 X20
