@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/66421419-9fd3-4f6d-820e-53e2300f9793)
-
+![RDTgauge1 1 1](https://github.com/i3dm/Zavionix/assets/8968780/a5de6bc9-6ffe-4333-a45d-4f2bf487fbd0)
 
 This widget works only on 800x480 ascreen size  radios:
 X20
@@ -12,8 +11,10 @@ XW
 **IMPORTANT: This widget MUST HAVE Ethos 1.5.6 or newer, it will not work otherwise.**
 
 Zavionix RDTgauge widget, designed for Zavionix RDT turbine telemetry sensors.
-Pilots using RDT sensors are welcome to downlaod th widget and enjoy it :)
+Pilots using RDT sensors are welcome to downlaod the widget and enjoy it :)
 should you encounter any bugs - please open an issue.
 
 Besides the regular sensor configuration, to run the gauges you need to go throughthe widget settings and enter your turbine mix/max values as required.
+here is a video showing how to install the widget:
+https://www.youtube.com/watch?v=baInxEuHbRY
 
