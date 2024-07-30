@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb3c316d-6a98-4550-b25c-b3ccea4c94ce)
+![image](https://github.com/user-attachments/assets/a8594b9e-3274-43e7-87f9-fafa7a8b1205)
 
 
 This widget works only on 800x480 ascreen size  radios:
