@@ -1,3 +1,9 @@
+** Udate 17/08/24:
+The first V2 widget (BATT widget) is released for beta testing.
+this widget is much lighter in graphics and CPU load.
+V2 widgets ONLY run on Ethos 1.5.0 and above. **
+
+
 
 #Zavionix widgets for FrSky Radios
 **Zavionix widgets are published and updated in this repository.**
