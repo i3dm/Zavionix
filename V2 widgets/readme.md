@@ -1,7 +1,7 @@
 # Update 17/08/24:
-# The first V2 widget (BATT widget) is released for beta testing.
+# V2 widgets are getting released for beta testing.
 # The V2 widgets are much lighter in graphics and CPU load. 
-# Note: V2 widgets ONLY run on Ethos 1.5.0 and above. 
+# Note: V2 widgets ONLY run on Ethos 1.5.0 and above ! 
 
 
 
