@@ -5,7 +5,6 @@
 In order to replace an existing widget with a V2 variant, the entire widget folder has to be deleted and replaced with the new one downloaded from Github.
 
 
-
 #Zavionix widgets for FrSky Radios
 **Zavionix widgets are published and updated in this repository.**
 # if you need telemetry sensors please send us an email at: zavionixrc@gmail.com
