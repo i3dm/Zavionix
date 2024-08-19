@@ -1,9 +1,10 @@
 # Update 17/08/24:
 # V2 widgets are getting released for beta testing.
 # Note: V2 widgets ONLY run on Ethos 1.5.0 and above ! 
-
-# The V2 widgets are much lighter in graphics and CPU load. 
 # In order to replace an existing widget with a V2 variant, the entire widget folder has to be deleted and replaced with the new one downloaded from Github.
+
+The V2 widgets are much lighter in graphics and CPU load. 
+
 
 ![zavionixlogo](https://github.com/user-attachments/assets/fa53db2c-5518-47e4-ad39-6bc7ea443ecd)
 
