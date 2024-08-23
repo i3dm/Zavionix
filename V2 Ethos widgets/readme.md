@@ -1,9 +1,8 @@
 # Update 08/24: Zavionix V2 widgets are getting released for beta testing.
 # Notes: 
 # 1. V2 widgets ONLY run on Ethos 1.5.0 and above ! 
-# 2. Ethos can only run 2 widgets on the same model, 3rd would probably not run.
-# 3. The V2 widgets are much lighter in graphics and CPU load. you would find the swiping between screens has no delay.
-# 4. In order to replace an existing widget with a V2 variant, the entire widget folder has to be deleted and replaced with the new one downloaded from Github.
+# 2. The V2 widgets are much lighter in graphics and CPU load. you would find the swiping between screens has no delay.
+# 3. In order to replace an existing widget with a V2 variant, the entire widget folder has to be deleted and replaced with the new one downloaded from Github.
 
 
 
