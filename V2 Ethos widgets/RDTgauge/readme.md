@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/3fea6dc7-861a-4183-86c4-b60b41e15a6c)
 
 
-# This widget works only on 800x480 ascreen size  radios:
+# This widget works only on 800x480 screen size  radios:
 X20
 X20S
 X20R
