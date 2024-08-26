@@ -3,14 +3,8 @@
 # 1. V2 widgets ONLY run on Ethos 1.5.0 and above ! 
 # 2. The V2 widgets are much lighter in graphics and CPU load. you would find the swiping between screens has no delay.
 # 3. In order to replace an existing widget with a V2 variant, the entire widget folder has to be deleted and replaced with the new one downloaded from Github.
-# IMPORTANT: When ugrading RDT (turbine) widgets to from V1 to V2, please repeat the fuel factor calibration as fuel factor may change.
-```diff
-- # text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+# 4. IMPORTANT: When ugrading RDT (turbine) widgets to from V1 to V2, please repeat the fuel factor calibration as fuel factor may change.
+
 
 
 
