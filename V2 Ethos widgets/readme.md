@@ -1,5 +1,6 @@
 # Update 08/24: Zavionix V2 widgets are released!
 ***Notes:***
+
 ***1. V2 widgets ONLY run on Ethos 1.5.0 and above !***
 
 ***2. The V2 widgets are much lighter in graphics and CPU load. you would find the swiping between screens has no delay.***
