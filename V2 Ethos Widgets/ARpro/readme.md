@@ -10,6 +10,7 @@ the user must set up the
 telemetry devices as follows
 
 Gyro Live Gain Telemetry IDs
+
 0x5210 = Live Gain X 
 
 0x5211 = Live Gain Y
@@ -18,12 +19,21 @@ Gyro Live Gain Telemetry IDs
 
 
 Gyro AGC values telemetry IDs
+
 0x5213 = AGC X
+
 0x5214 = AGC Y
+
 0x5215 = AGC Z
 
+
 Receiver values telemetry IDs
-0x5206 = Receiver 1 Received Frames,
+
+0x5206 = Receiver 1 Received Frames
+
 0x5207 = Receiver 2 Received Frames
-0x5208 = Receiver 1 Failsafe Events,
+
+0x5208 = Receiver 1 Failsafe Events
+
 0x5209 = Receiver 2 Failsafe Events
+
