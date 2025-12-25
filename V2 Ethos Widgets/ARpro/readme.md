@@ -10,9 +10,12 @@ the user must set up the
 telemetry devices as follows
 
 Gyro Live Gain Telemetry IDs
-0x5210 = Live Gain X /n
+0x5210 = Live Gain X 
+
 0x5211 = Live Gain Y
+
 0x5212 = Live Gain Z
+
 
 Gyro AGC values telemetry IDs
 0x5213 = AGC X
