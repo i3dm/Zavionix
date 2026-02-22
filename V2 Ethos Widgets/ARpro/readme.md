@@ -11,29 +11,29 @@ telemetry devices as follows
 
 Gyro Live Gain Telemetry IDs
 
-0x5210 = Live Gain X 
+DIY 5210 = Live Gain X 
 
-0x5211 = Live Gain Y
+DIY 5211 = Live Gain Y
 
-0x5212 = Live Gain Z
+DIY 5212 = Live Gain Z
 
 
 Gyro AGC values telemetry IDs
 
-0x5213 = AGC X
+DIY 5213 = AGC X
 
-0x5214 = AGC Y
+DIY 5214 = AGC Y
 
-0x5215 = AGC Z
+DIY 5215 = AGC Z
 
 
 Receiver values telemetry IDs
 
-0x5206 = Receiver 1 Received Frames
+DIY 5206 = Receiver 1 Received Frames
 
-0x5207 = Receiver 2 Received Frames
+DIY 5207 = Receiver 2 Received Frames
 
-0x5208 = Receiver 1 Failsafe Events
+DIY 5208 = Receiver 1 Failsafe Events
 
-0x5209 = Receiver 2 Failsafe Events
+DIY 5209 = Receiver 2 Failsafe Events
 
