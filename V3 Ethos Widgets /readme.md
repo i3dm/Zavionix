@@ -1,3 +1,4 @@
+# UPDATE 1/5/2026:
 # V3 Widgets are FOR BETA TESTING ONLY.
 **These are the next generation widgets, based on V2 widgets with AI assistance for maximum running efficiency.**
 
