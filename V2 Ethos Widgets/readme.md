@@ -4,7 +4,7 @@
 # Zavionix V2 widgets for FrSky Radios have been released!
 # please note:
 # 1. if upgrading from V1, please delete entire widget folder from radio and coy the new folder and all its contents.
-# 2. if upgrading an RDT widget, please reerform fuel factor calibration as fuel factor may change!
+# 2. if upgrading an RDT widget, please re perform fuel factor calibration as fuel factor may change!
 # 3. V2 widgets are much lighter on graphics. enjoy then :)
 
 **Zavionix widgets are published and updated in this repository.**
