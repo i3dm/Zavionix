@@ -12,8 +12,7 @@
 <img alt="" border="0" src="https://www.paypal.com/en_IL/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-**Here is an example of our RDT turbine widget running on FrSky X20S transmitter:**
-![Alt text](rdt.jpg?raw=true "Title")
+
 
 # How to Download?
 1. To download all widgets, simply click "Code" in the top right corner of the page.
@@ -48,8 +47,8 @@ RDT sensor configuration for Ethos.xls
 21.	Post on the Frsky facebook groups and tag @Zavionix 😊
 
 
-
-
+**Here is an example of our RDT turbine widget running on FrSky X20S transmitter:**
+![Alt text](rdt.jpg?raw=true "Title")
 
 # Donations
 ***Many people have asked me for the price of the widgets.
