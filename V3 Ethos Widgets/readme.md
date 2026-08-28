@@ -1,5 +1,4 @@
-
-# Zavionix V3 widgets for FrSky Radios
+# Zavionix V3 widgets for FrSky Radios have been released for General Use!
 
 **Zavionix V3 widgets are the same as V2, with AI tools improvement and memory optimization, they run faster and lighter than original V2 widgets, for best system performance**
 The functionality of V3 widgets is also improved:
@@ -13,7 +12,7 @@ The functionality of V3 widgets is also improved:
 
 
 
-# Zavionix V3 widgets for FrSky Radios have been released for Beta testing!
+
 # please note:
 # 1. if upgrading from V1 or V2, please delete entire widget folder from radio and copy the new folder and all its contents.
 # 2. if upgrading an RDT widget, please re perform fuel factor calibration as fuel factor may change!
