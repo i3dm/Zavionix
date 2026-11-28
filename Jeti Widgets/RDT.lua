@@ -1,6 +1,6 @@
 -- Zavionix RDT for Jeti. Values are already scaled by the EX decoder.
 local S, renderer, menu, mode
-local APP_VERSION="1.3.1"
+local APP_VERSION="1.3.2"
 local TELEMETRY_FULL_SCREEN=4
 local modelImages, missingModelImages = {}, {}
 local function load(name)
